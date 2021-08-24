@@ -1,0 +1,8 @@
+site_name: "springservicedemoone"
+site_description: "First attempt to create a new component"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
